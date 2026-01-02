@@ -1,0 +1,5 @@
+{
+  "name": "NutriGen Wellness Kitchen Studio",
+  "description": "AI-powered poster creator for Ayurvedic dishes using gemini for text and imagen for image generation.",
+  "requestFramePermissions": []
+}
